@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChangWins
 - 👀 I’m interested in medical AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI application in Medicine.
+- 💞️ I’m looking to collaborate on AI application in Medicine
 - 📫 How to reach me changwins26@gmail.com
 
 <!---
